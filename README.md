@@ -1,6 +1,6 @@
 ## Efficient Architecture Search for Diverse Tasks
 
-[[Paper Link (To be added)]]
+[[Paper Link](https://arxiv.org/abs/2204.07554)]
 
 Original [PyTorch](https://pytorch.org/) implementation of DASH (**D**iverse-task **A**rchitecture **S**earc**H**). This repo is built on top
 of the [XD-operations](https://github.com/mkhodak/relax) from the paper [Rethinking Neural Operations for Diverse Tasks](https://arxiv.org/abs/2103.15798) and can be used to 
