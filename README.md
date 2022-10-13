@@ -59,12 +59,11 @@ python3 main.py --dataset your_new_task
 ## Citation
 If you find this project helpful, please consider citing our paper:
 ```bibtex
-@article{shen2022,
-  title = {Efficient Architecture Search for Diverse Tasks},  
-  author = {Shen, Junhong and Khodak, Mikhail and Talwalkar, Ameet}, 
-  publisher = {arXiv},
-  year = {2022},
+@inproceedings{shen2022efficient,
+  title={Efficient Architecture Search for Diverse Tasks},
+  author={Shen, Junhong and Khodak, Mikhail and Talwalkar, Ameet},
+    booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+    year={2022}
 }
-
 ```
 Thanks!
