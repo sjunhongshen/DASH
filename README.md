@@ -28,7 +28,7 @@ Experiments in the paper are done on [Google Cloud Platform](https://cloud.googl
 
 ## Experiment with NAS-Bench-360
 
-1. In `./src/data`, run `sh download.sh` to download required datasets by specifying the task name(s) in the `download.sh` file.
+1. In `./src/data`, run `download.sh` to download required datasets by specifying the task name(s) in the `download.sh` file.
 2. In the `./src` directory, run `sh run.sh` to reproduce the results of the task name(s) specified in the `run.sh` file.
 
 The commands for replicating the speed test for DASH in also in `./src/run.sh`.
